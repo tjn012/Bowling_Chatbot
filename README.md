@@ -18,7 +18,7 @@ license: cc-by-4.0
 
 **Machine Learning Algorithm(s):** SGD, Random Forest, Gradient Boosting, AdaBoost, Decision Tree, MLP, SVR, XGBoost, Extra Trees ML algorithms all cross-validated using 5-fold cross validation. 
 
-**Ethics Considerations:** Include a link to your completed DataCards and Deon checklist to ensure ethical practices were followed. [file:///C:/Users/17814/Downloads/Bowling%20Advice%20Chatbot%20Ethics%20Checklist%20and%20Data%20Card%20-%20Google%20Docs.pdf](url) 
+**Ethics Considerations:** Bowling Advice Chatbot Ethics Checklist and Data Card .pdf file uploaded in GitHub repository
 
 **Graphical User Interface (GUI):** NA
 
