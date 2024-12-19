@@ -20,6 +20,6 @@ license: cc-by-4.0
 
 **Ethics Considerations:** Bowling Advice Chatbot Ethics Checklist and Data Card .pdf file uploaded in GitHub repository
 
-**Graphical User Interface (GUI):** NA
+**Graphical User Interface (GUI):** (https://huggingface.co/spaces/kaylayi18/chatbox)
 
 **Dataset:** Dataset was created 12/13 at Hooplah's and is in the Github Repository in the raw form. EDA and preprocessing steps were applied.
